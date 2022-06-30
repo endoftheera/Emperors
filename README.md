@@ -1,2 +1,2 @@
-# thank you Github
-You made my day
+# Thank you Github
+- You made my day
